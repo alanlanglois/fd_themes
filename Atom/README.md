@@ -1,4 +1,4 @@
-Atome look alike Dark Theme for FlashDevelop / HaxeDevelop
+<a href="https://atom.io/" target="_blank">Atom</a> look alike Dark Theme for FlashDevelop / HaxeDevelop
 ![Preview](https://raw.githubusercontent.com/alanlanglois/fd_themes/master/Atom/preview.jpg?raw=true)
 
 Theme aimed to reproduce <a href="https://atom.io/" target="_blank">Atom</a> look. 
