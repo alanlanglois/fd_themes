@@ -22,7 +22,7 @@ ScrollBar.HotArrowColor=#4c5363
 ScrollBar.ActiveArrowColor=#A0A0A1
 
 ListView.UseGrouping=True
-ListView.Highlight=#49483E
+ListView.Highlight=#41547a
 ListView.HighlightText=#9da5b4
 TreeView.Highlight=#66D9EF
 TreeView.HighlightText=#181a1f
@@ -38,7 +38,7 @@ OutputPanel.ErrorColor=#FF3232
 OutputPanel.FatalColor=#FF0000
 OutputPanel.ProcessStartColor=#F92672
 OutputPanel.ProcessEndColor=F92672
-OutputPanel.HighlightColor=#49483E
+OutputPanel.HighlightColor=#41547a
 
 DataTreeControl.GrayText=#808080
 DataTreeControl.ErrorText=#FF3232
@@ -54,7 +54,7 @@ CompletionList.SelectedBackColor=#282c34
 CompletionList.PackageColor=#AE81FF
 
 MethodCallTip.SelectedFore=#FFFFFF
-MethodCallTip.SelectedBack=#49483E
+MethodCallTip.SelectedBack=#41547a
 MethodCallTip.InfoColor=#66D9EF
 
 DataGridView.LineColor=#181a1f
